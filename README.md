@@ -6,6 +6,8 @@ This repository contains historical daily price data for gold and silver, source
 
 ## 🚀 Features
 Historical Analysis: Study price trends over two decades.
+
 Data Visualization: Visualize fluctuations and volatility using Python scripts.
+
 Predictive Modeling: Forecast future prices with advanced machine learning techniques.
 
